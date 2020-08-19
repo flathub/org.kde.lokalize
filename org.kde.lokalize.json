@@ -24,8 +24,8 @@
             [ 
                 { 
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.70/portingAids/kdelibs4support-5.70.0.tar.xz",
-                    "sha256": "9dab898bd5fcea327258c92aa7df86ae76e15bf9ae80fc1bd4123047e58ab346"
+                    "url": "https://download.kde.org/stable/frameworks/5.73/portingAids/kdelibs4support-5.73.0.tar.xz",
+                    "sha256": "ca6f58c97b331d130a555b950c36cd7f625ca923fd185b0f73e20ac5b98c5d9b"
                 }
             ]
         },
@@ -40,8 +40,8 @@
             [ 
                 { 
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.70/portingAids/kross-5.70.0.tar.xz",
-                    "sha256": "e59859824aaee9207819aa82e463dae9d2c8d46a7e047383208e6511e8116589"
+                    "url": "https://download.kde.org/stable/frameworks/5.73/portingAids/kross-5.73.0.tar.xz",
+                    "sha256": "aa27b434da981f64c40985a61ee041417667844c6077c9fb52456635be67546e"
                 }
             ]
         },
