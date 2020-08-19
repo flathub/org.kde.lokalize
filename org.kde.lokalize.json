@@ -24,8 +24,8 @@
             [ 
                 { 
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.69/portingAids/kdelibs4support-5.69.0.tar.xz",
-                    "sha256": "2e61462c1f128a586b20bcbbe529c7b620e4d46e383066ed78b99e87b38feccc"
+                    "url": "https://download.kde.org/stable/frameworks/5.73/portingAids/kdelibs4support-5.73.0.tar.xz",
+                    "sha256": "ca6f58c97b331d130a555b950c36cd7f625ca923fd185b0f73e20ac5b98c5d9b"
                 }
             ]
         },
@@ -40,8 +40,8 @@
             [ 
                 { 
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.69/portingAids/kross-5.69.0.tar.xz",
-                    "sha256": "acec70fe97dddd32b05b28747da7761571d8b684641c7848f544a0e67a698f93"
+                    "url": "https://download.kde.org/stable/frameworks/5.73/portingAids/kross-5.73.0.tar.xz",
+                    "sha256": "aa27b434da981f64c40985a61ee041417667844c6077c9fb52456635be67546e"
                 }
             ]
         },
@@ -52,13 +52,9 @@
             [ 
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.04.3/src/lokalize-20.04.3.tar.xz",
-                    "sha256": "fccba64af9faa5cbb5dfdb303009504993fe71282f0dbc9c748c5a28a327c379"
-                },
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
-                }                
+                    "url": "https://download.kde.org/stable/release-service/20.08.0/src/lokalize-20.08.0.tar.xz",
+                    "sha256": "dd05509386b816aeb02797769c28e12cf8b3f38d88f722a699a77db94c9ab71e"
+                }
             ]
         }
     ]
