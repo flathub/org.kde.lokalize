@@ -52,8 +52,8 @@
             [ 
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.08.1/src/lokalize-20.08.1.tar.xz",
-                    "sha256": "a4a3e5703d39ae8fe12d2ff832e99b3339ba1c8ec8d2439abeb348e687f1eae9"
+                    "url": "https://download.kde.org/stable/release-service/20.08.2/src/lokalize-20.08.2.tar.xz",
+                    "sha256": "c11616bc02763fb1f3b1abf0b2ba70d0c6c550435c94ff25c5096f9a90375e23"
                 }
             ]
         }
