@@ -18,18 +18,6 @@
 
     "modules": [
         {
-            "name": "kdelibs4support",
-            "buildsystem": "cmake-ninja",
-            "sources": 
-            [ 
-                { 
-                    "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.73/portingAids/kdelibs4support-5.73.0.tar.xz",
-                    "sha256": "ca6f58c97b331d130a555b950c36cd7f625ca923fd185b0f73e20ac5b98c5d9b"
-                }
-            ]
-        },
-        {
             "name": "kross",
             "buildsystem": "cmake-ninja",
             "config-opts": 
@@ -40,8 +28,8 @@
             [ 
                 { 
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.73/portingAids/kross-5.73.0.tar.xz",
-                    "sha256": "aa27b434da981f64c40985a61ee041417667844c6077c9fb52456635be67546e"
+                    "url": "https://download.kde.org/stable/frameworks/5.76/portingAids/kross-5.76.0.tar.xz",
+                    "sha256": "15591f2a50f995bcaf17ef72662851c805d4644f13848387f056f686b77c5291"
                 }
             ]
         },
@@ -52,8 +40,8 @@
             [ 
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.08.3/src/lokalize-20.08.3.tar.xz",
-                    "sha256": "28b76632612ac65a28b4de929dd4ea9565f307d983d1a3ec07f0401c9a464b45"
+                    "url": "https://download.kde.org/stable/release-service/20.12.0/src/lokalize-20.12.0.tar.xz",
+                    "sha256": "c3229f3fa876e6b096b29d9b578ecf9bfd93d5ff46ab23df4edfdf821f2c2fde"
                 }
             ]
         }
