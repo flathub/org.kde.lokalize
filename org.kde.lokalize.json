@@ -5,8 +5,7 @@
     "sdk": "org.kde.Sdk",
     "command": "lokalize",
     "rename-icon": "lokalize",
-    "finish-args": 
-    [
+    "finish-args": [
         "--share=ipc",
         "--socket=x11",
         "--socket=wayland",
@@ -15,35 +14,31 @@
         "--socket=pulseaudio"
     ],
     "separate-locales": false,
-
     "modules": [
         {
             "name": "kross",
             "buildsystem": "cmake-ninja",
-            "config-opts": 
-            [ 
+            "config-opts": [
                 "-DENABLE_TESTING=OFF"
             ],
-            "sources": 
-            [ 
-                { 
+            "sources": [
+                {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.88/portingAids/kross-5.88.0.tar.xz",
-                    "sha256": "c889a3f8ceef51f8ad188e8cc98d7aae110268d23ff4ade8d7ef779bb90f5e6d",
+                    "url": "https://download.kde.org/stable/frameworks/5.92/portingAids/kross-5.92.0.tar.xz",
+                    "sha256": "129e2840eb1f33c95d50cde79a82f784cf735c3f1ae636f15dcf695c0b0c1ebf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/frameworks/$major.$minor/portingAids/kross-$version.tar.xz"
-                     }
+                    }
                 }
             ]
         },
         {
             "name": "lokalize",
             "buildsystem": "cmake-ninja",
-            "sources": 
-            [ 
+            "sources": [
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/lokalize-21.12.3.tar.xz",
@@ -53,7 +48,7 @@
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/lokalize-$version.tar.xz"
-                     }
+                    }
                 }
             ]
         }
