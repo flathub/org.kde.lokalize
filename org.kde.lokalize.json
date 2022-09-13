@@ -24,8 +24,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.97/portingAids/kross-5.97.0.tar.xz",
-                    "sha256": "ba60156428496628046d99d5fe33bfdfbb4d29cb1ae82dd9014202dceda18304",
+                    "url": "https://download.kde.org/stable/frameworks/5.98/portingAids/kross-5.98.0.tar.xz",
+                    "sha256": "c068880493c486f5580d1f5f9955a587b3498c46ce86bf49cdb44b42b231567a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
