@@ -24,8 +24,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.98/portingAids/kross-5.98.0.tar.xz",
-                    "sha256": "c068880493c486f5580d1f5f9955a587b3498c46ce86bf49cdb44b42b231567a",
+                    "url": "https://download.kde.org/stable/frameworks/5.99/portingAids/kross-5.99.0.tar.xz",
+                    "sha256": "7bf7a895f15554e4a88d63aa2216be9af7662bb8c28e56bad5b31953a97788d6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
@@ -41,8 +41,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/lokalize-22.08.1.tar.xz",
-                    "sha256": "2c8508d8cbf0926104bfbd4c6348efadcfe4517b15e92448594898b0808eb63e",
+                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/lokalize-22.08.2.tar.xz",
+                    "sha256": "065f3662961f61e0346afe0704846cd716503439329bcfda5910cbe524ef2d74",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
