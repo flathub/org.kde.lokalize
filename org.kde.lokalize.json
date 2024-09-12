@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/lokalize-24.08.0.tar.xz",
-                    "sha256": "b7874452fc149d32efda8dc04719f7578b3f2273eea8227b2bf25754650a9ca6",
+                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/lokalize-24.08.1.tar.xz",
+                    "sha256": "c289f3be2c6b19f5fbd54c02b91f809ff7cf372cedcbf078f1c4f1a61471f85b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
