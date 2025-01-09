@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/lokalize-24.12.0.tar.xz",
-                    "sha256": "b53c6941a80e80d79cca34dff01abf232298c8474909cf4fd390289098d0c5ac",
+                    "url": "https://download.kde.org/stable/release-service/24.12.1/src/lokalize-24.12.1.tar.xz",
+                    "sha256": "6f420319176c84191cc7f47587b37d4568653bdbadaaf64193d7864e6c94a798",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
