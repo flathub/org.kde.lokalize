@@ -5,6 +5,7 @@
     "sdk": "org.kde.Sdk",
     "command": "lokalize",
     "rename-icon": "lokalize",
+    "separate-locales": false,
     "finish-args": [
         "--share=ipc",
         "--socket=x11",
@@ -12,7 +13,10 @@
         "--filesystem=host",
         "--socket=pulseaudio"
     ],
-    "separate-locales": false,
+    "cleanup": [
+        "/share/doc",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         {
             "name": "lokalize",
