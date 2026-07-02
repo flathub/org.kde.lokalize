@@ -24,8 +24,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/lokalize-26.04.2.tar.xz",
-                    "sha256": "eb2001a3e1ef8b522d1a763a9082d3334c1e30fa787ded12b6be9d07f804292a",
+                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/lokalize-26.04.3.tar.xz",
+                    "sha256": "c23ac4bf5ec63100823855f72f9c6e473050282361b1460072bb15d193ece5dd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
